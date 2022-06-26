@@ -1,5 +1,5 @@
 # Python runs on interpreter whereas C was on Compiler. As it is Interpreter, we need to signify the type as .py at the end as extension
-# Generally, Interpreters are faster than compilers.
+# Generally, Interpreters are faster than compiler in case of analyzing the codes but slower when executing the program
 # Programming languages like JavaScript, Python, Ruby use interpreters. Programming languages like C, C++, Java use compilers.
 
 # Elif = elseif statement in python programming
