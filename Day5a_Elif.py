@@ -36,6 +36,7 @@ if a > b:
     # Can also write     print(f'{a} is greater')
 elif b > a:
     print(f'{b} is greater')
+    # Here, f is jist to format it so we can input the value of b in {b}, IN PYTHON< WE HAVE MULTIPLE WAYS TO DO SO
     # Instead, we can also write print(f'{b} is greater')
 else:
     print(f"{a} and {b} are equal")

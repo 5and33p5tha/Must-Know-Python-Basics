@@ -1,0 +1,2 @@
+This is the FIRST line written using the write mode
+ This is the SECOND line written using the write mode

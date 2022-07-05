@@ -36,6 +36,12 @@ demoFunction()
 # AS IN MOST CASES, WE NEED THE OUTPUTS TO BE SOMEWHERE SO IT IS A MUST TO USE THE RETURN TYPE.SOMETIMES, WE HAVE TO PASS THE VALUE OF A VARIABLE TO ANOTHER VARIABLE. HENCE THE FOLLOWING METHOD IS PREFERRED
 # using return type
 # Initially, defining a function
+
+
+# result = add_num()
+# print('The addition of 5 and 20 is',result)
+# The above line shows that add_num() is not defined. Hence we should first define it as:-
+
 def add_num():
     return 5+20  # WE USE RETURN SO THAT WHILE CALLING, WE CAN STORE THIS VALUE IN A VARIABLE
 # GENERALLY, WE USE return so that we can have the ability to store the outputs
